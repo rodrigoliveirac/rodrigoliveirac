@@ -5,8 +5,6 @@
 - 🌱 I’m currently learning to build scalable apps
 
 - 📫 How to reach me: rodrigocavalcante.pro@gmail.com
-
-- ⚡ Fun fact: I used to be lost until to get to know programming
 <!-- 🤔 I’m looking for help get a job -->
 <!-- 💬 Ask me about -->
 <!-- 👯 I’m looking to collaborate on ... -->
