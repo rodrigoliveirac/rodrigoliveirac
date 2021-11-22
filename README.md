@@ -1,6 +1,6 @@
 # Hi there, I'm Rodrigo 👋
   
-- 🔭 I’m currently working on me 
+- 🔭 I’m currently working at OmniChat as Product Engineer I
 
 - 🌱 I’m currently learning to build scalable apps
 
