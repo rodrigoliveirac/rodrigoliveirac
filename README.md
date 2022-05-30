@@ -1,8 +1,8 @@
 # Hi there, I'm Rodrigo 👋
   
-- 🔭 I’m currently working at OmniChat as Product Engineer I
+<!-- - 🔭 I’m currently working at OmniChat as Product Engineer I -->
 
-- 🌱 I’m currently learning to build scalable apps
+- 🌱 I’m currently learning to build scalable native android apps
 
 - 📫 How to reach me: rodrigocavalcante.pro@gmail.com
 <!-- 🤔 I’m looking for help get a job -->
