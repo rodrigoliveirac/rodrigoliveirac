@@ -2,7 +2,7 @@
   
 <!-- - 🔭 I’m currently working at OmniChat as Product Engineer I -->
 
-- 🌱 I’m currently learning to build scalable native android apps
+- 🌱 I’m currently learning flutter and building some projects on my own.
 
 - 📫 How to reach me: rodrigocavalcante.pro@gmail.com
 <!-- 🤔 I’m looking for help get a job -->
