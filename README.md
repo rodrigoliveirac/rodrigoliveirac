@@ -2,7 +2,7 @@
   
 - 🔭 I’m currently working with Android and iOS projects.
 
-- 🌱 I’m currently learning SwiftUI.
+- 🌱 I’m currently learning to build backend applications w/ Spring.
 
 - 📫 How to reach me: rodrigocavalcante.pro@gmail.com
 
